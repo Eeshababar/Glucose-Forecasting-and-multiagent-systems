@@ -7,7 +7,7 @@ An intelligent multi-agent system for continuous glucose monitoring (CGM) that f
 ### Test out the app
 
 <p>
-  <a href="https://gcmagenticai-9bfwiufmadlsyhesphs4hi.streamlit.app/" target="_blank">
+  <a href="[https://gcmagenticai-9bfwiufmadlsyhesphs4hi.streamlit.app/](https://glucose-forecasting-and-multiagent-systems.streamlit.app/)" target="_blank">
     <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit"/>
   </a>
 </p>
